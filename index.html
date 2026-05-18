@@ -88,11 +88,26 @@
       a {
         color: var(--accent);
       }
+
+      nav {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 12px;
+        margin: 0 0 22px;
+      }
+
+      nav a {
+        font-weight: 700;
+      }
     </style>
   </head>
   <body>
     <main>
       <article class="card">
+        <nav aria-label="Legal pages">
+          <a href="./">Privacy Policy</a>
+          <a href="./terms.html">Terms and Conditions</a>
+        </nav>
         <p class="eyebrow">Effective date: May 7, 2026</p>
         <h1>Privacy Policy for PsiGrid</h1>
         <p>
