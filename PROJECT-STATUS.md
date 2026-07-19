@@ -4,7 +4,7 @@
 
 - Updated the local Privacy Policy and Terms for PsiGrid's Supabase-backed production candidate.
 - The pages now cover email authentication, profiles, opt-in coarse location, direct messages, room posts, block/report controls, deletion requests, secure session storage, and local preview fallback.
-- Publication is pending a GitHub Pages push.
+- Published from `main` in commit `f8115b4`; both public URLs return HTTP 200 with the July 18, 2026 effective date.
 - Cost note: no direct cost incurred.
 
 ## 2026-05-17 Terms page
